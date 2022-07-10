@@ -12,7 +12,7 @@ Foram utilizadas, especificamente, as seguintes bibliotecas: Pandas e Numpy para
 Seaborn para visualização de gráficos, Tensorflow e Keras para criação, treinamento e avaliação do modelo de aprendizagem de
 máquina. O código foi escrito utilizando-se o recurso “GoogleColaboratory”.
 
-O artigo pode ser acessado nos arquivos deste repositório e o código pode ser visto neste !link[https://colab.research.google.com/drive/19LsVnQ0sUUyMjtJhDGzL6gmk1ENusJYu?usp=sharing]
+O artigo e o código podem ser acessados nos arquivos deste repositório.
 
 
 #  Resumo
