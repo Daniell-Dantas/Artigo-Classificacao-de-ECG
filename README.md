@@ -5,8 +5,9 @@
 </p>
 
 
-Este artigo é o trabalho final da disciplina de Redes Neurais do Mestrado em Inteligência Computacional.
+Este artigo no formato IEEE é o trabalho final da disciplina de Redes Neurais do Mestrado em Inteligência Computacional.
 Foi proposto aos mestrandos o desafio da aplicação de reses neurais em alguma problemática da vida real. Eu escolhi a aplicação de redes convolucionais aplicadas ao problema de classificação de séries temporais, mais especificamente as séries temporais do sinal de Eletrocardiograma (ECG), pela quantidade de dados disponíveis e estudos prévios na literatura científica.
+
 O modelo foi criado, treinado e avaliado utilizando-se softwares open-source escritos na linguagem de programação Python.
 Foram utilizadas, especificamente, as seguintes bibliotecas: Pandas e Numpy para tratamento e modelagem de dados, Matplotlib e
 Seaborn para visualização de gráficos, Tensorflow e Keras para criação, treinamento e avaliação do modelo de aprendizagem de
